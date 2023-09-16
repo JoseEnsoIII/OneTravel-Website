@@ -6,10 +6,10 @@ import { faAngular, faBootstrap, faReact, faVuejs } from "@fortawesome/free-bran
 import { Col, Row, Card, Image, Button, ListGroup, ProgressBar } from '@themesberg/react-bootstrap';
 import { CircleChart, BarChart, SalesValueChart, SalesValueChartphone } from "./Charts";
 
-import Profile1 from "images/newww-96x53.png";
-import ProfileCover from "images/newww-96x53.png";
+import Profile1 from "/images/newww-96x53.png";
+import ProfileCover from "/images/newww-96x53.png";
 
-import teamMembers from "images/newww-96x53.png";
+import teamMembers from "/images/newww-96x53.png";
 
 
 export const ProfileCardWidget = () => {

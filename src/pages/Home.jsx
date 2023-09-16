@@ -26,28 +26,28 @@ function Home() {
           className='w-100 d-block'
           style={{ position: 'relative', height: '650px' }}
           itemId={1}
-          src='images/pexels-christian-paul-del-rosario-732497.jpg'
+          src='/images/pexels-christian-paul-del-rosario-732497.jpg'
           alt='...'
         />
         <MDBCarouselItem
           className='w-100 d-block'
           style={{ position: 'relative', height: '650px' }}
           itemId={2}
-          src='images/pexels-sharmaine-monticalbo-3824139.jpg'
+          src='/images/pexels-sharmaine-monticalbo-3824139.jpg'
           alt='...'
         />
         <MDBCarouselItem
           className='w-100 d-block'
           style={{ position: 'relative', height: '650px' }}
           itemId={3}
-          src='images/pexels-cedrick-samonte-12643683.jpg'
+          src='/images/pexels-cedrick-samonte-12643683.jpg'
           alt='...'
         />
         <MDBCarouselItem
           className='w-100 d-block'
           style={{ position: 'relative', height: '650px' }}
           itemId={3}
-          src='images/pexels-stijn-dijkstra-2562158 (1).jpg'
+          src='/images/pexels-stijn-dijkstra-2562158 (1).jpg'
           alt='...'
         />
       </MDBCarousel>
@@ -112,7 +112,7 @@ function Home() {
             <div className="col-12 col-lg-6">
               <div className="image-wrapper" >
                 <img
-                  src="images/s-1160x773.webp"
+                  src="/images/s-1160x773.webp"
                   alt=""
                 />
               </div>
@@ -142,7 +142,7 @@ function Home() {
             <div className="item-wrapper" >
               <div className="item-img">
                 <img
-                  src="images/0.webp"
+                  src="/images/0.webp"
                   alt=""
                 />
               </div>
@@ -162,7 +162,7 @@ function Home() {
             <div className="item-wrapper" >
               <div className="item-img">
                 <img
-                  src="images/p.webp"
+                  src="/images/p.webp"
                   alt=""
                 />
               </div>
@@ -182,7 +182,7 @@ function Home() {
             <div className="item-wrapper" >
               <div className="item-img">
                 <img
-                  src="images/lll.webp"
+                  src="/images/lll.webp"
                   alt=""
                 />
               </div>
@@ -202,7 +202,7 @@ function Home() {
             <div className="item-wrapper" >
               <div className="item-img">
                 <img
-                  src="images/th.webp"
+                  src="/images/th.webp"
                   alt=""
                   title=""
                 />

@@ -40,7 +40,7 @@ const DestiSlider = () => {
           <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/bbbb-600x338.webp"
+                src="/images/bbbb-600x338.webp"
                 alt="Slider Image"
                 style={{ height: "300px", width: "400px" }}
               />
@@ -74,7 +74,7 @@ const DestiSlider = () => {
           <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/cebuuu-474x316.webp"
+                src="/images/cebuuu-474x316.webp"
                 alt="Slider Image"
                 style={{ height: "300px", width: "400px" }}
               />
@@ -108,7 +108,7 @@ const DestiSlider = () => {
           <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/vigg-600x356.webp"
+                src="/images/vigg-600x356.webp"
                 alt="Slider Image"
                 style={{ height: "300px", width: "400px" }}
               />
@@ -141,7 +141,7 @@ const DestiSlider = () => {
           <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/bbbb-600x338.webp"
+                src="/images/bbbb-600x338.webp"
                 alt="Slider Image"
                 style={{ height: "300px", width: "400px" }}
               />
@@ -175,7 +175,7 @@ const DestiSlider = () => {
           <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/bbbb-600x338.webp"
+                src="/images/bbbb-600x338.webp"
                 alt="Slider Image"
                 style={{ height: "300px", width: "400px" }}
               />

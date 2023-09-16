@@ -28,7 +28,7 @@ const AccomSlider = () => {
           <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/manila-474x316.webp"
+                src="/images/manila-474x316.webp"
                 alt="Mobirise Website Builder"
                 style={{ height: "300px", width: "400px", paddingLeft: "10px" }}
               />
@@ -72,7 +72,7 @@ const AccomSlider = () => {
            <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/download-6-254x198.webp"
+                src="/images/download-6-254x198.webp"
                 alt="Mobirise Website Builder"
                 style={{ height: "300px", width: "400px", paddingLeft: "5px" ,paddingRight:"5px"}}
               />
@@ -116,7 +116,7 @@ const AccomSlider = () => {
            <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/bgc-474x316.webp"
+                src="/images/bgc-474x316.webp"
                 alt="Mobirise Website Builder"
                 style={{ height: "300px", width: "400px", paddingLeft: "10px" }}
               />
@@ -160,7 +160,7 @@ const AccomSlider = () => {
            <div className="item-wrapper">
             <div className="item-img">
               <img
-                src="images/bbbb-600x338.webp"
+                src="/images/bbbb-600x338.webp"
                 alt="Mobirise Website Builder"
                 style={{ height: "300px", width: "400px", paddingLeft: "10px" }}
               />

@@ -22,7 +22,7 @@ class DestiSlider extends React.Component {
         <div className="slide-content h-300 pt-5" >
       <div className="item-wrapper">
          <div className="item-img ml-10 ">
-          <img src="images/download-2-276x182.webp" alt="Mobirise Website Builder" data-slide-to="0" data-bs-slide-to="0" />
+          <img src="/images/download-2-276x182.webp" alt="Mobirise Website Builder" data-slide-to="0" data-bs-slide-to="0" />
         </div>
       </div>
       <div className="item-content bg-gray-200 ml-10  bg-gray-200">
@@ -43,7 +43,7 @@ class DestiSlider extends React.Component {
     <div className="slide-content h-300 pt-5" >
       <div className="item-wrapper">
       <div className="item-img ml-10 ">
-          <img src="images/download-3-299x168.webp" alt="Mobirise Website Builder" data-slide-to="1" data-bs-slide-to="1" />
+          <img src="/images/download-3-299x168.webp" alt="Mobirise Website Builder" data-slide-to="1" data-bs-slide-to="1" />
         </div>
       </div>
       <div className="item-content bg-gray-200 ml-10  bg-gray-200">
@@ -64,7 +64,7 @@ class DestiSlider extends React.Component {
     <div className="slide-content h-300 pt-5" >
       <div className="item-wrapper">
         <div className="item-img ml-10 ">
-          <img src="images/9123a5-dc795e8ac9dc4ac090aed56cae99bbb8mv2.webp" alt="Mobirise Website Builder" data-slide-to="2" data-bs-slide-to="2" />
+          <img src="/images/9123a5-dc795e8ac9dc4ac090aed56cae99bbb8mv2.webp" alt="Mobirise Website Builder" data-slide-to="2" data-bs-slide-to="2" />
         </div>
       </div>
       <div className="item-content bg-gray-200 ml-10  bg-gray-200">
@@ -85,7 +85,7 @@ class DestiSlider extends React.Component {
       <div className="slide-content h-300 pt-5">
         <div className="item-wrapper">
           <div className="item-img ml-10 ">
-            <img src="images/download-4-256x197.webp" alt="Mobirise Website Builder" data-slide-to="3" data-bs-slide-to="3" />
+            <img src="/images/download-4-256x197.webp" alt="Mobirise Website Builder" data-slide-to="3" data-bs-slide-to="3" />
           </div>
         </div>
 

@@ -29,7 +29,7 @@ function Navbar() {
           <div className="navbar-brand" style={{ marginRight: "50px" }}>
             <a href="/">
               <img
-                src="images/newww-210x116.webp"
+                src="/images/newww-210x116.webp"
                 alt=""
                 className="mr-10"
                 style={{ height: "3.5rem", marginLeft: "13px" }}

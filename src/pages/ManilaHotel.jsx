@@ -56,7 +56,7 @@ const DestiSlider = () => {
   <div className="item-wrapper">
    <div className="item-img ml-10">
       <img
-        src="images/mannnnn.webp"
+        src="/images/mannnnn.webp"
         alt="Mobirise Website Builder"
         style={{ paddingLeft: "10px", paddingRight: "10px", width: "100%", height: "500px" }}
       />
@@ -98,7 +98,7 @@ const DestiSlider = () => {
   <div className="item-wrapper">
      <div className="item-img ml-10">
       <img
-        src="images/rp-1000x525.webp"
+        src="/images/rp-1000x525.webp"
         alt="Mobirise Website Builder"
         style={{ paddingLeft: "10px", paddingRight: "10px", width: "100%", height: "500px" }}
       />
@@ -142,7 +142,7 @@ const DestiSlider = () => {
   <div className="item-wrapper">
    <div className="item-img ml-10">
       <img
-        src="images/bayview-1000x667.webp"
+        src="/images/bayview-1000x667.webp"
         alt="Mobirise Website Builder"
         style={{ paddingLeft: "10px", paddingRight: "10px", width: "100%", height: "500px" }}
       />
@@ -189,7 +189,7 @@ const DestiSlider = () => {
   <div className="item-wrapper">
    <div className="item-img ml-10">
       <img
-        src="images/hd-860x450.webp"
+        src="/images/hd-860x450.webp"
         alt="Mobirise Website Builder"
         style={{ paddingLeft: "5px", paddingRight: "5px", width: "100%", height: "500px" }}
       />

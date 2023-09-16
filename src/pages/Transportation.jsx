@@ -191,7 +191,7 @@ const Transportation = () => {
                 <div className="col-12 col-md-3">
                   <div className="image-wrapper">
                     <img
-                      src="images/1-219x154.png"
+                      src="/images/1-219x154.png"
                       alt="Mobirise Website Builder"
                       title=""
                     />
@@ -243,7 +243,7 @@ const Transportation = () => {
                 <div className="col-12 col-md-3">
                   <div className="image-wrapper">
                     <img
-                      src="images/2-295x136.png"
+                      src="/images/2-295x136.png"
                       alt="Mobirise Website Builder"
                       title=""
                     />
@@ -293,7 +293,7 @@ const Transportation = () => {
                 <div className="col-12 col-md-3">
                   <div className="image-wrapper">
                     <img
-                      src="images/3-596x298.jpg"
+                      src="/images/3-596x298.jpg"
                       alt="Mobirise Website Builder"
                       title=""
                     />

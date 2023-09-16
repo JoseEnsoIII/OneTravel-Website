@@ -49,7 +49,7 @@ class DestiSlider extends React.Component {
        <div className="slide-content h-300 pt-5" >
   <div className="item-wrapper">
     <div className="item-img ml-10">
-      <img src="images/20201629270303j2lky53a4ad96651cfc1c5ffbbdffc9735983-259x167.webp" alt="Mobirise Website Builder" />
+      <img src="/images/20201629270303j2lky53a4ad96651cfc1c5ffbbdffc9735983-259x167.webp" alt="Mobirise Website Builder" />
     </div>
   </div>
   <div className="item-content bg-gray-200 ml-10 bg-gray-200" style={{ flex: 1 }}>
@@ -75,7 +75,7 @@ class DestiSlider extends React.Component {
    <div className="slide-content h-300 pt-5">
     <div className="item-wrapper">
       <div className="item-img ml-10">
-        <img src="images/0106i1200086dkv6sa0ca-1000x656.webp" alt="Mobirise Website Builder" />
+        <img src="/images/0106i1200086dkv6sa0ca-1000x656.webp" alt="Mobirise Website Builder" />
       </div>
     </div>
      <div className="item-content bg-gray-200 ml-10 bg-gray-200">
@@ -101,7 +101,7 @@ class DestiSlider extends React.Component {
    <div className="slide-content h-300 pt-5">
     <div className="item-wrapper">
       <div className="item-img ml-10">
-        <img src="images/global-city-mckinley-hill-625x483.webp" alt="Mobirise Website Builder" />
+        <img src="/images/global-city-mckinley-hill-625x483.webp" alt="Mobirise Website Builder" />
       </div>
     </div>
      <div className="item-content bg-gray-200 ml-10 bg-gray-200">
@@ -127,7 +127,7 @@ class DestiSlider extends React.Component {
    <div className="slide-content h-300 pt-5">
     <div className="item-wrapper">
     <div className="item-img ml-10">
-        <img src="images/bgc-terra-28-1598535331-960x540.webp" alt="Mobirise Website Builder" />
+        <img src="/images/bgc-terra-28-1598535331-960x540.webp" alt="Mobirise Website Builder" />
       </div>
     </div>
      <div className="item-content bg-gray-200 ml-10 bg-gray-200">

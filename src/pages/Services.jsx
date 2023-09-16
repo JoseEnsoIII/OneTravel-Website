@@ -22,7 +22,7 @@ function Services() {
         <div className="container">
           <div className="row justify-content-center align-items-center">
             <div className="col-12 col-md-6 image-wrapper">
-              <img src="images/th-474x372.jpg" alt="Mobirise Website Builder" />
+              <img src="/images/th-474x372.jpg" alt="Mobirise Website Builder" />
             </div>
             <div className="col-12 col-md">
               <div className="text-wrapper">

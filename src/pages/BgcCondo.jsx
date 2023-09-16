@@ -22,7 +22,7 @@ class DestiSlider extends React.Component {
          <div className="slide-content h-300 pt-5">
             <div className="item-wrapper">
               <div className="item-img ml-10">
-                <img src="images/veranda-condo-taguig-photo-2-259x184.webp" alt="Mobirise Website Builder" />
+                <img src="/images/veranda-condo-taguig-photo-2-259x184.webp" alt="Mobirise Website Builder" />
               </div>
             </div>
               <div className="item-content bg-gray-200 ml-10 bg-gray-200">
@@ -49,7 +49,7 @@ class DestiSlider extends React.Component {
           <div className="slide-content h-300 pt-5">
             <div className="item-wrapper">
               <div className="item-img ml-10">
-                <img src="images/de-639x426.webp" alt="Mobirise Website Builder" />
+                <img src="/images/de-639x426.webp" alt="Mobirise Website Builder" />
               </div>
             </div>
               <div className="item-content bg-gray-200 ml-10 bg-gray-200">
@@ -75,7 +75,7 @@ class DestiSlider extends React.Component {
           <div className="slide-content h-300 pt-5">
             <div className="item-wrapper">
               <div className="item-img ml-10">
-                <img src="images/images-6-200x251.webp" alt="Mobirise Website Builder" />
+                <img src="/images//images-6-200x251.webp" alt="Mobirise Website Builder" />
               </div>
             </div>
               <div className="item-content bg-gray-200 ml-10 bg-gray-200">
@@ -101,7 +101,7 @@ class DestiSlider extends React.Component {
           <div className="slide-content h-300 pt-5">
             <div className="item-wrapper">
               <div className="item-img ml-10">
-                <img src="images/the-courtyard-taguig-by-camella-condo-homes-philippines-4-960x1034.webp" alt="Mobirise Website Builder" />
+                <img src="/images/the-courtyard-taguig-by-camella-condo-homes-philippines-4-960x1034.webp" alt="Mobirise Website Builder" />
               </div>
             </div>
               <div className="item-content bg-gray-200 ml-10 bg-gray-200">

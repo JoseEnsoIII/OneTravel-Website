@@ -26,7 +26,7 @@ class DestiSlider extends React.Component {
           <div className="item-wrapper">
             <div className="item-img ml-10">
               <img
-                src="images/960x0-960x768.webp"
+                src="/images/960x0-960x768.webp"
                 alt="Mobirise Website Builder"
               />
             </div>
@@ -60,7 +60,7 @@ class DestiSlider extends React.Component {
           <div className="item-wrapper">
             <div className="item-img ml-10">
               <img
-                src="images/335672877-675x768.webp"
+                src="/images/335672877-675x768.webp"
                 alt="Mobirise Website Builder"
               />
             </div>
@@ -94,7 +94,7 @@ class DestiSlider extends React.Component {
           <div className="item-wrapper">
             <div className="item-img ml-10">
               <img
-                src="images/335672877-675x768.webp"
+                src="/images/335672877-675x768.webp"
                 alt="Mobirise Website Builder"
               />
             </div>
@@ -128,7 +128,7 @@ class DestiSlider extends React.Component {
           <div className="item-wrapper">
             <div className="item-img ml-10">
               <img
-                src="images/mhg-6848-pano-2-min-240x204.webp"
+                src="/images/mhg-6848-pano-2-min-240x204.webp"
                 alt="Mobirise Website Builder"
               />
             </div>
