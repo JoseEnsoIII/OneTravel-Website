@@ -58,3 +58,6 @@ Before you begin, ensure you have the following software installed on your syste
    ```bash
    git clone https://github.com/your-username/OneTravel-Website.git
    cd OneTravel-Website
+   npm install
+   npm run dev
+   
